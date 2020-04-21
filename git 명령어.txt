@@ -1,0 +1,8 @@
+git init //깃 초기 폴더 설정
+git add . //모든파일 commit할 계획이라고 설정
+git commit -m "첫번째 commit" //커밋
+git push //서버에 올림
+git clone //서버에 있는걸 가져옴
+git config --global user.name "이름설정"
+git config --global user.email "이메일설정"
+
